@@ -14,4 +14,5 @@ A simple CLI-based PDF editor that allows users to perform various tasks on PDF 
 2. Install the required Python libraries:
    ```bash
    pip install -r requirments.txt
-
+   
+   ```
